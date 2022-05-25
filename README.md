@@ -1,6 +1,5 @@
-# neighbour_finder
+# Neighbour Finder
 Neighbourhood Collaboration Site
-# Neighbourhood Collaboration Site
 
 1. Consider the type of data we will be storing and therefore the type of database we should implement (SQL vs NoSQL)
 
