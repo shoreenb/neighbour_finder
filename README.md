@@ -14,7 +14,7 @@ Neighbourhood Collaboration Site
 
    - Each address has a postcode and street address  
    <p align="center">
-   ![](table.png)
+   ![](neighbour_finder/table.png)
    </p>
 
 3. Consider the requests our API should be capable of handling
@@ -36,7 +36,7 @@ Neighbourhood Collaboration Site
 4. List the routes you will need with their HTTP verb and path
 
 <p align="center">
-![](table.png)
+![](neighbout_finder/table.png)
 </p>
 
 5. Determine the responses that should be returned and the content types of these requests and responses
